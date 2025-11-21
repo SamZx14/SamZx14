@@ -59,6 +59,13 @@
 ![Samira's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamZx14&theme=tokyo-night)
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SamZx14&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <h3 align="left">🌐 Connect with Me 🍬:</h3>
 <p align="left">
