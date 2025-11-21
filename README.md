@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="90px" width="90px"> </h1>
+<h1 align="center"> <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="70px" width="70px"> </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=26&duration=3000&pause=1000&color=CCFFFE&center=false&vCenter=true&width=800&lines=Hello+and+Assalamualaikum!+I+am+Samira+👋+😊;A+dedicated+CSE+student+from+Bangladesh+🗾+🌏;Passionate+about+learning+Computer+Languages+Software+Development+👩‍💻;Curious+about+building+projects+🚀;Always+love+to+learning+improving+and+taking+Challenges+with+my+code+😉)](https://git.io/typing-svg)
 
