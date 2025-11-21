@@ -66,7 +66,7 @@
 
 
 ## 📈 Contribution Graph
-![Samira's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamZx14&theme=tokyo-night)
+![Samira's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamZx14&theme=merko)
 
 
 ### ✍️ Random Dev Quote
@@ -94,6 +94,7 @@
 <a href="https://auth.geeksforgeeks.org/user/samira1jhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="samira1jhe" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/sam_0_sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sam_0_sam" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/samira_ibrahim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/samira_ibrahim_" height="30" width="40" /></a>
+<a href="https://wa.me/1333257795" target="_blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="30" height="40" style="margin: 0 8px;"/></a>
 </p>
 
 
