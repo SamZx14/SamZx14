@@ -122,8 +122,12 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 <img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />
+
 
 ---
 
-🤗 *From [SamZx14](https://github.com/SamZx14)*  🤗
+❤️ *From [SamZx14](https://github.com/SamZx14)*  🤗
