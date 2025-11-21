@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=26&duration=3000&pause=1000&color=CCFFFE&center=false&vCenter=true&width=800&lines=Hello+and+Assalamualaikum!+I+am+Samira+👋+😊;A+dedicated+CSE+student+from+Bangladesh+🗾+🌏;Passionate+about+learning+Computer+Languages+Software+Development+👩‍💻;Curious+about+building+projects+🚀;Always+love+to+learning+improving+and+taking+Challenges+with+my+code+😉)](https://git.io/typing-svg)
+<h1 align="center"> <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="30px" width="30px"> </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=26&duration=3000&pause=1000&color=CCFFFE&center=false&vCenter=true&width=800&lines=Hello+and+Assalamualaikum!+I+am+Samira++😊;A+dedicated+CSE+student+from+Bangladesh+🗾+🌏;Passionate+about+learning+Computer+Languages+Software+Development+👩‍💻;Curious+about+building+projects+🚀;Always+love+to+learning+improving+and+taking+Challenges+with+my+code+😉)](https://git.io/typing-svg)
+
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3em0ybDJ6czBsdGl3Z3BnZnptZzZzdGQyczQ2eXFreHpjdWgyY2NnZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/d2ZgHHUtfHgdc2u4/giphy.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samzx14&label=Profile%20views&color=0e75b6&style=flat" alt="samzx14" /> </p>
 
@@ -26,17 +29,28 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=22&duration=3000&pause=1000&color=34C759&center=false&vCenter=true&width=700&lines=Coffee+in+hand+music+on+headphones+lights+off+->+That’s+my+peak+performance+mode+😏;I+talk+to+my+compiler+like+it’s+a+teammate+who+disappoints+me+sometimes+😭;My+code+works+perfectly+until+someone+watches+me+run+it+😅;I+learn+new+tech+out+of+curiosity,+not+necessity+🙄;🌙+🎧+🖥️+🟰+💞)](https://git.io/typing-svg)
 
 
-## 📊 My GitHub Stats
-![Samira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamZx14&show_icons=true&theme=tokyonight)
+## 📊 GitHub State:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamZx14&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&cache_seconds=86400" alt="SamZx14's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=SamZx14&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="SamZx14's GitHub Streak" width="49%" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamZx14&theme=tokyonight)
 
 
 ---
 
 ## 🤖 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamZx14&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamZx14&layout=compact&theme=highcontrast&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
 
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
