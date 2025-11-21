@@ -44,6 +44,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamZx14&layout=compact&theme=highcontrast&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
+<p align="center">
+<a href="https://www.buymeacoffee.com/SamiraIbrahim"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=SamiraIbrahim&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
