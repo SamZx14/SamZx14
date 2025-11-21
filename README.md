@@ -1,5 +1,9 @@
 <h1 align="center"> <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="60px" width="60px"> </h1>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=26&duration=3000&pause=1000&color=CCFFFE&center=false&vCenter=true&width=800&lines=Hello+and+Assalamualaikum!+I+am+Samira+👋+😊;A+dedicated+CSE+student+from+Bangladesh+🗾+🌏;Passionate+about+learning+Computer+Languages+Software+Development+👩‍💻;Curious+about+building+projects+🚀;Always+love+to+learning+improving+and+taking+Challenges+with+my+code+😉)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3em0ybDJ6czBsdGl3Z3BnZnptZzZzdGQyczQ2eXFreHpjdWgyY2NnZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/d2ZgHHUtfHgdc2u4/giphy.gif" alt="">
@@ -117,7 +121,12 @@
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
   </a>
 </p>
+<br></br>
 
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ---
 
