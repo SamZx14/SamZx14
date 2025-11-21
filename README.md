@@ -44,6 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamZx14&layout=compact&theme=highcontrast&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
+<p align="center"><a href="https://www.buymeacoffee.com/SamiraIbrahim" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 
 <picture>
