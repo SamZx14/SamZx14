@@ -23,6 +23,7 @@
 - **Programming Languages:** C, C++
 - **Tools & Platforms:** VS Code, GitHub  
 - **Areas of Interest:** Web Development, Artificial Intelligence
+- **Language:** English, Bangla
   
 
 ## 🗃️ Projects
