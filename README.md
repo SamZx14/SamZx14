@@ -65,7 +65,6 @@
 
 ---
 
-
 ## 📈 Contribution Graph
 ![Samira's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamZx14&theme=merko)
 
