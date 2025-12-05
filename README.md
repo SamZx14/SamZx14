@@ -36,10 +36,10 @@
 
 ## 📊 GitHub State:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamZx14&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&cache_seconds=86400" alt="SamZx14's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamZx14&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&cache_seconds=86400" alt="SamZx14's GitHub Stats" width="100%" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SamZx14&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="SamZx14's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=SamZx14&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="SamZx14's GitHub Streak" width="100%" />
 </p>
 
 
