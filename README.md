@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&duration=3000&pause=1000&color=CCFFFE&center=false&vCenter=true&width=800&lines=Hello+and+Assalamualaikum!+I+am+Samira+👋+😊;A+dedicated+CSE+student+from+Bangladesh+🗾+🌏;Passionate+about+learning+Computer+Languages+Software+Development+👩‍💻;Curious+about+building+projects+🚀;Always+love+to+learning+improving+and+taking+Challenges+with+my+code+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&duration=3000&pause=1000&color=CCFFFE&center=false&vCenter=true&width=800&lines=Hello+and+Assalamualaikum!+I+am+Samira+👋+😊;A+dedicated+CSE+student+from+Bangladesh+🗾+🌏;Passionate+about+Computer+Languages+Software+Development+👩‍💻;Curious+about+building+projects+🚀;Always+love+to+learning+improving+and+taking+Challenges+with+my+code+😉)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3em0ybDJ6czBsdGl3Z3BnZnptZzZzdGQyczQ2eXFreHpjdWgyY2NnZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/d2ZgHHUtfHgdc2u4/giphy.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samzx14&label=Profile%20views&color=0e75b6&style=flat" alt="samzx14" /> </p>
@@ -31,7 +31,7 @@
 
 
 ## 👻 Crazy fact 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=30&duration=3000&pause=1000&color=34C759&center=false&vCenter=true&width=700&lines=Coffee+in+hand+music+on+headphones+lights+off+->+My+peak+performance+mode+😏;I+talk+to+my+compiler+like+it’s+a+teammate+who+disappoints+me+sometimes+😭;My+code+works+perfectly+until+someone+watches+me+run+it+😅;I+learn+new+tech+out+of+curiosity,+not+necessity+🙄;🌙+➕+🎧+➕+🖥️+🟰+💞)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=30&duration=3000&pause=1000&color=34C759&center=false&vCenter=true&width=700&lines=Coffee+in+hand+music+on+headphones+lights+off+->+My+potential+mode+😏;I+talk+to+my+compiler+like+it’s+a+teammate+who+disappoints+me+sometimes+😭;My+code+works+perfectly+until+someone+watches+me+run+it+😅;I+learn+new+tech+out+of+curiosity,+not+necessity+🙄;🌙+➕+🎧+➕+🖥️+🟰+💞)](https://git.io/typing-svg)
 
 
 ## 📊 GitHub State:
