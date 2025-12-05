@@ -31,7 +31,7 @@
 
 
 ## 👻 Crazy fact 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=22&duration=3000&pause=1000&color=34C759&center=false&vCenter=true&width=700&lines=Coffee+in+hand+music+on+headphones+lights+off+->+That’s+my+peak+performance+mode+😏;I+talk+to+my+compiler+like+it’s+a+teammate+who+disappoints+me+sometimes+😭;My+code+works+perfectly+until+someone+watches+me+run+it+😅;I+learn+new+tech+out+of+curiosity,+not+necessity+🙄;🌙+➕+🎧+➕+🖥️+🟰+💞)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=30&duration=3000&pause=1000&color=34C759&center=false&vCenter=true&width=700&lines=Coffee+in+hand+music+on+headphones+lights+off+->+That’s+my+peak+performance+mode+😏;I+talk+to+my+compiler+like+it’s+a+teammate+who+disappoints+me+sometimes+😭;My+code+works+perfectly+until+someone+watches+me+run+it+😅;I+learn+new+tech+out+of+curiosity,+not+necessity+🙄;🌙+➕+🎧+➕+🖥️+🟰+💞)](https://git.io/typing-svg)
 
 
 ## 📊 GitHub State:
