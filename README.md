@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&duration=3000&pause=1000&color=CCFFFE&center=false&vCenter=true&width=800&lines=Hello+and+Assalamualaikum!+I+am+Samira+👋+😊;A+dedicated+CSE+student+from+Bangladesh+🗾+🌏;Passionate+about+Computer+Languages+Software+Development+👩‍💻;Curious+about+building+projects+🚀;Always+love+to+learning+improving+and+taking+Challenges+with+my+code+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&duration=3000&pause=1000&color=CCFFFE&center=false&vCenter=true&width=800&lines=Hello+and+Assalamualaikum!+I+am+Samira+👋+😊;A+dedicated+CSE+student+from+Bangladesh+🗾+🌏;Passionate+about+learning+Computer+Languages+Software+Development+👩‍💻;Curious+about+building+projects+🚀;Always+love+to+learning+improving+and+taking+Challenges+with+my+code+😉)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3em0ybDJ6czBsdGl3Z3BnZnptZzZzdGQyczQ2eXFreHpjdWgyY2NnZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/d2ZgHHUtfHgdc2u4/giphy.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samzx14&label=Profile%20views&color=0e75b6&style=flat" alt="samzx14" /> </p>
