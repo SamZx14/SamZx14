@@ -27,7 +27,7 @@
   
 
 ## 🗃️ Projects
-- 👾 [CodeCraft](https://github.com/SayemXx/CodeCraft) — A console based C programming learning game  
+- 👾 [CodeCraft](https://github.com/SamZx14/SDP-1-CODECRAFT) — A console based C programming learning game  
 
 
 ## 👻 Crazy fact 
