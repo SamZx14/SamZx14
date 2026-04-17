@@ -129,6 +129,9 @@
   <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/drawio/drawio-icon.svg" alt="drawio" width="40" height="40"/>
   </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
