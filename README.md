@@ -153,15 +153,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/drawio/drawio-icon.svg" alt="drawio" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/animate.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_animate/adobe_animate-icon.svg" alt="adobe animate" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/media-encoder.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_media_encoder/adobe_media_encoder-icon.svg" alt="adobe media encoder" width="40" height="40"/>
-  </a>
 </p>
 
 <div align="center">
