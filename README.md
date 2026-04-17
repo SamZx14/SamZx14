@@ -36,10 +36,10 @@
 
 ## 📊 GitHub State:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamZx14&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&cache_seconds=86400" alt="SamZx14's GitHub Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamZx14&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&cache_seconds=86400" alt="SamZx14's GitHub Stats" width="60%" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SamZx14&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="SamZx14's GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=SamZx14&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="SamZx14's GitHub Streak" width="60%" />
 </p>
 
 
@@ -113,6 +113,9 @@
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sql" width="40" height="40"/>
   </a>
   <a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
