@@ -126,9 +126,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/drawio/drawio-icon.svg" alt="drawio" width="40" height="40"/>
-  </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
   </a>
@@ -149,6 +146,9 @@
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/drawio/drawio-icon.svg" alt="drawio" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/animate.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_animate/adobe_animate-icon.svg" alt="adobe animate" width="40" height="40"/>
