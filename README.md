@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3em0ybDJ6czBsdGl3Z3BnZnptZzZzdGQyczQ2eXFreHpjdWgyY2NnZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/d2ZgHHUtfHgdc2u4/giphy.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samzx14&label=Profile%20views&color=0e75b6&style=flat" alt="samzx14" /> </p>
 
-- 🌱 I’m currently learning **C, C++** & **Data Structures**
+- 🌱 I’m currently learning **C, C++, Python, Sql, Database** & **Data Structures**
 
 - 🚀 Exploring **Web Development** 
 
@@ -20,8 +20,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/samira-ibrahim-8b5439317](https://www.linkedin.com/in/samira-ibrahim-8b5439317)
 
 ## 🛠️ Skills
-- **Programming Languages:** C, C++
-- **Tools & Platforms:** VS Code, GitHub  
+- **Programming Languages:** C, C++, Python, HTML
+- **Tools & Platforms:** VS Code, GitHub, Git, MySQL, XAMPP, PyCharm, TKinter, Stack Overflow
 - **Areas of Interest:** Web Development, Artificial Intelligence
 - **Language:** English, Bangla
   
