@@ -108,8 +108,26 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="xampp" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/drawio/drawio-icon.svg" alt="drawio" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -122,6 +140,12 @@
   </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/animate.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/adobe_animate/adobe_animate-icon.svg" alt="adobe animate" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/media-encoder.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/adobe_media_encoder/adobe_media_encoder-icon.svg" alt="adobe media encoder" width="40" height="40"/>
   </a>
 </p>
 
