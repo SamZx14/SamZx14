@@ -147,6 +147,9 @@
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
   </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
   <a href="https://www.adobe.com/products/animate.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_animate/adobe_animate-icon.svg" alt="adobe animate" width="40" height="40"/>
   </a>
